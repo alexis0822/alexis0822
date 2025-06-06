@@ -12,6 +12,8 @@
   - [Bill Split Calculator](https://github.com/alexis0822/bill-split-calculator)
 - <b>Fake E-Commerce Website (to display skills)</b>
   - [Fake E-Commerce Site](https://github.com/alexis0822/fake-ecommerce)
+- <b>BMI Calculator</b>
+  - [BMI Calculator](https://github.com/alexis0822/bmi-calculator)
 
 <h2> 🤳 Connect with me:</h2>
 
