@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alexis! <br/><a href="https://github.com/alexis0822">Programmer</a>, Student and Web Developer.</h1>
+<h1>Hi, I'm Alexis! <br/>Programmer, Student and Web Developer.</h1>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
