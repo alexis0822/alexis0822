@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alexis! <br/><a href="https://github.com/alexis0822">Programmer</a>, Student and Web Developer.</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Healthy Body Rehab - Official Web Page</b>
   - [Healthy Body Rehab](https://github.com/alexis0822/HBR-page)
@@ -15,9 +15,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="ajnl23 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/ajnl23/
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexis0822)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ajnl.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexisjnegron@gmail.com)
 
 <!--
 **alexis0822/alexis0822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
