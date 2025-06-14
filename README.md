@@ -18,7 +18,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexis0822)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ajnl23)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ajnl.dev)
 [![Home Page](https://img.shields.io/badge/Home%20Page-1976D2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alexis0822.github.io/portfolio/home.html)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexisjnegron@gmail.com)
 
