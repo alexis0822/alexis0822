@@ -4,12 +4,6 @@
 
 - <b>Healthy Body Rehab - Official Web Page</b>
   - [Healthy Body Rehab](https://github.com/alexis0822/HBR-page)
-- <b>Fake Restaurant Template (to display skills)</b>
-  - [Fake Restaurant Template](https://github.com/alexis0822/rest-template)
-- <b>Fake E-Commerce Website (to display skills)</b>
-  - [Fake E-Commerce Site](https://github.com/alexis0822/fake-ecommerce)
-- <b>BMI Calculator</b>
-  - [BMI Calculator](https://github.com/alexis0822/bmi-calculator)
 
 <h2> 🤳 Connect with me:</h2>
 
